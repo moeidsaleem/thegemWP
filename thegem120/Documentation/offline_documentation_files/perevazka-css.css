@@ -1,0 +1,264 @@
+.jtwt_tweet_text.icon-twitter a:hover {
+	color: #3c3950;
+}
+.widget.widget_search form {
+	border-radius: 3px;
+	overflow: hidden;
+}
+.widget_diagram .skill-amount {
+	letter-spacing: 0.05em;
+}
+#colophon #mc4wp_email {
+	border-radius: 3px;
+}
+#mc4wp_submit{
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+#mc4wp_email {
+	border-radius: 3px;
+}
+.digram-line-box  .skill-title {
+	font-size: 14px;
+}
+.widget_recent_comments li {
+	font-size: 14px;
+}
+#wp-calendar caption {
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	height: 39px;
+	padding: 7px 0;
+	line-height: 25px;
+}
+#wp-calendar #prev a,
+#wp-calendar #next a{
+	color: transparent;
+}
+
+.widget_recent_comments .comment-author-link a{
+	font-size: 14px;
+}
+.widget_recent_comments a {
+	font-size: 16px;
+}
+
+.project_info-item-style-1 .project_info-item .title {
+	letter-spacing: 0.05em;
+}
+
+.widget .gem-teams-name {
+	clear: both;
+}
+
+.gem-teams-phone {
+	letter-spacing: 0.05em;
+}
+.testimonials-style-1-name.gem-testimonial-name,
+.testimonials-style-2-name.gem-testimonial-name{
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	font-size: 14px;
+}
+.testimonials-style-1-teg {
+	font-size: 58px;
+}
+body .thegem-widget-testimonial .testimonials-style-1-teg{
+	color: #a3e7f0;
+}
+.thegem-widget-testimonial .testimonials-style-2-teg {
+	color: #a3e7f0;
+}
+
+.widget_nav_menu li a:after,
+.widget_submenu li a:after {
+	position: absolute;
+	right: 30px;
+}
+
+.widget_nav_menu > div > ul > li > a,
+.widget_submenu > div > ul > li > a,
+.widget_pages > ul > li > a,
+.widget_categories > ul > li > a {
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+}
+
+.widget_submenu  ul ul ul,
+.widget_nav_menu  ul ul ul,
+.widget_pages ul ul ul,
+.widget_categories ul ul ul{
+	font-size: 14px;
+}
+
+.widget_submenu  ul ul ul ul,
+.widget_nav_menu  ul ul ul ul,
+.widget_pages ul ul ul ul
+.widget_categories ul ul ul ul{
+	background-color: #dde6e8;
+
+}
+
+.widget_submenu  ul ul ul ul ul,
+.widget_nav_menu  ul ul ul ul ul,
+.widget_pages ul ul ul ul ul,
+.widget_categories ul ul ul ul ul{
+	background-color: #d4dfe3;
+}
+
+.jtwt_date{
+	font-size: 14px;
+}
+
+
+/*footer*/
+#colophon .widget_tweets .twitter-box .jtwt_tweet,
+#colophon .Custom_Recent_Posts .gem-pp-posts,
+#colophon .widget_meta li,
+#colophon .widget_rss li,
+#colophon .widget_recent_entries li,
+#colophon .Custom_Recent_Posts ul li,
+#colophon .Custom_Popular_Posts ul li,
+#colophon .project_info-item-style-1 .project_info-item.iconed,
+#colophon .gem-latest-news {
+	border-bottom: 1px solid #393d50;
+}
+#colophon .widget_tweets .twitter-box .jtwt_tweet:last-child,
+#colophon .Custom_Recent_Posts .gem-pp-posts:last-child,
+#colophon .widget_meta li:last-child,
+#colophon .widget_rss li:last-child,
+#colophon .widget_recent_entries li:last-child,
+#colophon .Custom_Recent_Posts ul li:last-child,
+#colophon .Custom_Popular_Posts ul li:last-child,
+#colophon .project_info-item-style-1 .project_info-item.iconed:last-child,
+#colophon .gem-latest-news:last-child {
+	border-bottom: none;
+}
+
+#colophon .widget_recent_entries ul {
+	background: transparent;
+}
+#colophon .project_info-item-style-2 .project_info-item,
+#colophon .project_info-item-style-1,
+#colophon .digram-line-box,
+#colophon .widget form.searchform,
+#colophon .testimonials-style-1-item,
+#colophon .widget_recent_comments li,
+#colophon .gem-teams-item-wrap,
+#colophon #wp-calendar #prev a,
+#colophon #wp-calendar #next a,
+#colophon #wp-calendar caption:after,
+#colophon #calendar_wrap,
+#colophon  .widget_mc4wp_widget form {
+	background-color: #2c2e3d ;
+}
+#colophon #wp-calendar #prev a,
+#colophon #wp-calendar #next a {
+	-moz-transition: all 0.2  linear;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s  linear;
+	transition: all 0.2s  linear;
+}
+
+#colophon #wp-calendar #prev a:hover:after,
+#colophon #wp-calendar #next a:hover:after {
+	-moz-transition: all 0.2  linear;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s  linear;
+	transition: all 0.2s  linear;
+}
+#colophon .widget.widget_search input,
+#colophon #wp-calendar caption {
+	background-color: #181828;
+}
+
+
+#colophon .jtwt_tweet:first-child,
+#colophon .project_info-item-style-1 .project_info-item.iconed:first-child,
+#colophon .gem-pp-posts:first-child,
+#colophon .widget_tweets .twitter-box .jtwt_tweet:first-child{
+	background: none;
+}
+#colophon .skill-line {
+ background-color: #171728;
+}
+
+#colophon .widget.widget_search input,
+#colophon #mc4wp_email,
+#colophon .wpcf7-form-control-wrap input,
+#colophon .wpcf7-form-control-wrap textarea{
+	background-color: #181828;
+	border: 1px solid #394050;
+}
+#colophon .wpcf7-form-control-wrap textarea {
+	border-radius: 3px;
+}
+#colophon .widget.widget_search .gem-button,
+#colophon .wpcf7 .wpcf7-form .contact-form-footer .wpcf7-submit{
+	background-color: #394050;
+}
+#colophon #mc4wp_submit{
+	background-color: #394050;
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+#colophon .tagcloud a {
+	background-color: transparent;
+}
+
+#colophon .wpcf7-validation-errors,
+#colophon .wpcf7-not-valid-tip {
+	display: none !important;
+}
+
+
+/*footer*/
+.widget .searchform input {
+	border-radius: 3px;
+}
+body .widget_tag_cloud .tagcloud a:hover{
+	border: 1px solid transparent;
+}
+
+.widget :after,
+.widget :before,
+.widget a,
+.widget a:hover,
+.widget.widget_search .gem-button:hover,
+.widget.widget_search .gem-button,
+body .widget_tag_cloud .tagcloud a,
+body .widget_tag_cloud .tagcloud a:hover,
+.gem-widget-testimonials-prev-style-1.gem-prev:after,
+.gem-widget-testimonials-next-style-1.gem-next:after,
+.gem-widget-testimonials-prev-style-1.gem-prev:hover:after,
+.gem-widget-testimonials-next-style-1.gem-next:hover:after,
+.gem-widget-testimonials-prev-style-2.gem-prev:after,
+.gem-widget-testimonials-next-style-2.gem-next:after,
+.gem-widget-testimonials-prev-style-2.gem-prev:hover:after,
+.gem-widget-testimonials-next-style-2.gem-next:hover:after,
+#colophon .widget.widget_search .gem-button:hover,
+#colophon #mc4wp_submit:hover,
+#colophon .widget.widget_search .gem-button:hover,
+body #colophon .tagcloud a:hover,
+#colophon .widget.widget_search .gem-button {
+	-o-transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+
+.gem-gmaps.gem-wrapbox-style-11 .gem-wrapbox-inner {
+	border-color: #e0e5e8;
+}
+
+body  .portfolio-items-masonry.background-style-dark  .portfolio-item .caption {
+	border-bottom: none;
+}
+.portfolio-items-masonry .portfolio-item .caption {
+	border-bottom: 1px solid #e0e5e8;
+}
+/*hardcode*/
+.portfolio-filters-resp button:after {
+	background: #99a9b5;
+	box-shadow: 0 10px 0 0 #99a9b5, 0 20px 0 0 #99a9b5;
+}
+/*hardcode*/
